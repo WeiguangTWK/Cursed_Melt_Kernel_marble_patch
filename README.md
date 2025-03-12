@@ -1,9 +1,12 @@
 # Modified Melt Kernel for Kali Nethunter
 
 NEVER use it for illegal use, I am not responsible for any loss caused by users who violate this aggrement
+
 本仓库仅供学习使用，切勿用于非法用途，下载使用该补丁视为同意该点，本人不为任何非法行为导致的损失负责
 
 **根据《中华人民共和国刑法》第二百八十五条，非法侵入计算机信息系统将受法律制裁，最高可处三年有期徒刑**
+
+This is not my own effort and work, I am just the person who find it then carry it
 
 ## Feature
 
