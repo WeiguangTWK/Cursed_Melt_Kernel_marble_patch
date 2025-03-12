@@ -8,11 +8,6 @@ NEVER use it for illegal use, I am not responsible for any loss caused by users 
 
 This is not my own effort and work, I am just the person who find it then carry it. Highly experimental, use it at your own risk
 
-## Feature
-
-1. Enable HID attack and DuckyHID support
-(Need test for further info)
-
 ## Usage
 
 Clone melt source from [Pzqqt's repo](https://github.com/Pzqqt/android_kernel_xiaomi_marble/releases/tag/Melt-marble-v3.6)
