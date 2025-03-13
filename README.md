@@ -1,3 +1,7 @@
+Note: Work in progress, this patch doesn't actually work
+
+Known issue: Enabling CFG80211 and MAC80211 will crash WiFi functuionality
+
 # Modified Melt Kernel for Kali Nethunter
 
 NEVER use it for illegal use, I am not responsible for any loss caused by users who violate this aggrement
